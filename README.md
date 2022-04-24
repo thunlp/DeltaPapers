@@ -1,7 +1,22 @@
 # DeltaPapers
 A Paper List for Parameter-efficient Tuning (Delta Tuning).
 
-## Classification Criteria
+## Introduction
+This is a paper list of parameter-efficient methods (Delta Tuning) for pre-trained models. 
+
+
+### Keywords Convention
+
+We follow the general idea of PromptPapers to label the papers. 
+
+![](https://img.shields.io/badge/T5-blue) The abbreviation of the work.
+
+![](https://img.shields.io/badge/Specification-red) The primary class according to the classification criteion.
+
+![](https://img.shields.io/badge/Generation-brown) The main explored task of the work.
+
+![](https://img.shields.io/badge/MultiTask-green) The main explored property of delta tuning methods in the work.
+
 
 ## Papers
 - Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models
