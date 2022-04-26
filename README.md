@@ -89,17 +89,27 @@ We follow the general idea of PromptPapers to label the papers.
 
 - Movement Pruning: Adaptive Sparsity by Fine-Tuning
 
-- VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks
+- **VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022.
 
-- BEYOND FULLY-CONNECTED LAYERS WITH QUATERNIONS: PARAMETERIZATION OF HYPERCOMPLEX MULTIPLICATIONS WITH 1/n PARAMETERS
+  *Yi-Lin Sung, Jaemin Cho, Mohit Bansal*. [[pdf](https://arxiv.org/abs/2112.06825)], [[Project](https://github.com/ylsung/VL_adapter)]
 
-- Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices
+- **Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters,** ICLR 2021.
 
-- Adapterdrop: On the efficiency of adapters in transformers.
+  *Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Cheung Hui, Jie Fu*. [[pdf](https://arxiv.org/abs/2102.08597)]
 
-- BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task
+- **Shapeshifter: a Parameter-efficient Transformer using Factorized Reshaped Matrices,** Neurips 2021.
 
-- **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021
+  *Aliakbar Panahi, Seyran Saeedi, Tom Arodz*. [[pdf](https://proceedings.neurips.cc/paper/2021/file/09def3ebbc44ff3426b28fcd88c83554-Paper.pdf)], [[Project](https://github.com/tarodz/shapeshifter)]
+
+- **Adapterdrop: On the efficiency of adapters in transformers,** EMNLP 2021.
+
+  *Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*. [[pdf](https://arxiv.org/abs/2010.11918)]
+
+- **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task,** ICML 2019.
+  *Asa Cooper Stickland, Iain Murray*. [[pdf](https://arxiv.org/abs/1902.02671)], [[Project](https://github.com/AsaCooperStickland/Bert-n-Pals)]
+
+
+- **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021.
 
   *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md)]
 
