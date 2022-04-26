@@ -101,5 +101,5 @@ We follow the general idea of PromptPapers to label the papers.
 
 - **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021
 
-  *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/tree/master/examples/speech to text/docs/adapters.md)] 
+  *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md)]
 
