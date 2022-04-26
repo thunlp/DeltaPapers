@@ -21,21 +21,33 @@ We follow the general idea of PromptPapers to label the papers.
 
 ### Overview
 
-- **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Model**, Preprint. ![](https://img.shields.io/badge/Empirical_Study-green)![](https://img.shields.io/badge/Theoretical_Study-green)
+- **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Model**, Preprint 2022. ![](https://img.shields.io/badge/Empirical_Study-green)![](https://img.shields.io/badge/Theoretical_Study-green)
 
-  *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun* [[pdf](https://arxiv.org/abs/2203.06904)], [[project](https://github.com/thunlp/OpenDelta)] 
+  *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun*. [[pdf](https://arxiv.org/abs/2203.06904)], [[OpenDelta](https://github.com/thunlp/OpenDelta)] 
 
-- Parameter-Efficient Transfer Learning for NLP. 
+- **Parameter-Efficient Transfer Learning for NLP,** ICML 2019. 
 
-- The Power of Scale for Parameter-Efficient Prompt Tuning
+  Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly. [[pdf](https://arxiv.org/abs/1902.00751)], [[project](https://github.com/google-research/adapter-bert)]
 
-- Towards a Unified View of Parameter-Efficient Transfer Learning
+- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021.
 
-- LoRA: Low-Rank Adaptation of Large Language Models
+  Brian Lester, Rami Al-Rfou, Noah Constant. [[pdf](https://arxiv.org/abs/2104.08691)]
 
-- Prefix-Tuning: Optimizing Continuous Prompts for Generation
+- **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
-- AdapterHub: A Framework for Adapting Transformers
+  Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig. [[pdf](https://arxiv.org/abs/2110.04366)], [[project](https://github.com/jxhe/unify-parameter-efficient-tuning)]
+
+- **LoRA: Low-Rank Adaptation of Large Language Models,** ICLR 2022.
+
+  Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen. [[pdf](https://arxiv.org/abs/2106.09685)], [[project](https://github.com/microsoft/LoRA)]
+
+- **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
+
+  Xiang Lisa Li, Percy Liang. [[pdf](https://arxiv.org/abs/2101.00190)], [[project]()]
+
+- **AdapterHub: A Framework for Adapting Transformers,** 
+
+  Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych. [[pdf](https://arxiv.org/abs/2007.07779)], [[project](https://adapterhub.ml/)]
 
 - AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks
 
