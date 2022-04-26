@@ -49,19 +49,33 @@ We follow the general idea of PromptPapers to label the papers.
 
   Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych. [[pdf](https://arxiv.org/abs/2007.07779)], [[project](https://adapterhub.ml/)]
 
-- AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks
+- **AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks,** Preprint 2021.
 
-- AdapterFusion: Non-Destructive Task Composition for Transfer Learning
+  *Anonymous*. [[pdf](https://openreview.net/forum?id=VZ2oO6KYbBB)]
 
-- COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers
+- **AdapterFusion: Non-Destructive Task Composition for Transfer Learning,** Preprint 2020.
 
-- On the Effectiveness Adapter-based Tuning for Pretrained Language Model Adaptation
+  *Jonas Pfeiffer, Aishwarya Kamath, Andreas Rücklé, Kyunghyun Cho, Iryna Gurevych*. [[pdf](https://arxiv.org/abs/2005.00247)], [[Project](https://adapterhub.ml/)]
 
-- Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks
+- **COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers,** Neurips 2021.
 
-- Masking as an Efficient Alternative to Finetuning for Pretrained Language Models
+  *Rabeeh Karimi Mahabadi, James Henderson, Sebastian Ruder*. [[pdf](https://arxiv.org/abs/2106.04647)], [[Project](https://github.com/rabeehk/compacter)]
 
-- UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning
+- **On the Effectiveness Adapter-based Tuning for Pretrained Language Model Adaptation,** ACL 2021.
+
+  *Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, Bosheng Ding, Liying Cheng, Jia-Wei Low, Lidong Bing, Luo Si*. [[pdf](https://arxiv.org/abs/2106.03164)]
+
+- **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks,** ACL 2021.
+
+  *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
+
+- **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,** EMNLP 2020.
+
+  *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. [[pdf](https://arxiv.org/abs/2004.12406)], [[Project](https://github.com/ptlmasking/maskbert)]
+
+- **UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning,** Preprint 2021.
+
+  *Yuning Mao, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han, Wen-tau Yih, Madian Khabsa*. [[pdf](https://arxiv.org/abs/2110.07577)], [[Project](https://github.com/morningmoni/UniPELT)]
 
 - **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021.
 
