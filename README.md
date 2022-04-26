@@ -69,13 +69,21 @@ We follow the general idea of PromptPapers to label the papers.
 
 - gpt understands too.
 
-- Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021.
 
-- Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning
+  *Runxin Xu, Fuli Luo, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang*. [[pdf](https://arxiv.org/abs/2109.05687)], [[Project](https://github.com/alibaba/AliceMind/tree/main/ChildTuning)]
 
-- INTRINSIC DIMENSIONALITY EXPLAINS THE EFFEC- TIVENESS OF LANGUAGE MODEL FINE-TUNING
+- **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning,** Preprint 2021.
 
-- Parameter-Efficient Transfer Learning with Diff Pruning
+  *Yujia Qin, Xiaozhi Wang, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*. [[pdf](https://arxiv.org/abs/2110.07867)]
+
+- **Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,** ACL 2021.
+
+  *Armen Aghajanyan, Luke Zettlemoyer, Sonal Gupta*. [[pdf](https://arxiv.org/abs/2012.13255)]
+
+- **Parameter-Efficient Transfer Learning with Diff Pruning,** ACL 2021.
+
+  *Demi Guo, Alexander M. Rush, Yoon Kim*. [[pdf](https://arxiv.org/abs/2012.07463)], [[Project](https://github.com/dguo98/DiffPruning)]
 
 - **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021.
 
@@ -124,4 +132,3 @@ We follow the general idea of PromptPapers to label the papers.
 - **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021.
 
   *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md)]
-
