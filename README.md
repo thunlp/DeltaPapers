@@ -99,5 +99,7 @@ We follow the general idea of PromptPapers to label the papers.
 
 - BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task
 
-- Lightweight Adapter Tuning for Multilingual Speech Translation
+- **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021
+
+  *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/tree/master/examples/speech to text/docs/adapters.md)] 
 
