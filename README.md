@@ -77,7 +77,9 @@ We follow the general idea of PromptPapers to label the papers.
 
 - Parameter-Efficient Transfer Learning with Diff Pruning
 
-- Training Neural Networks with Fixed Sparse Masks
+- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021.
+
+  *Yi-Lin Sung, Varun Nair, Colin Raffeln*. [[pdf](https://arxiv.org/abs/2111.09839)], [[Project](https://github.com/varunnair18/FISH)]
 
 - **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators,** ACL 2021.
 
