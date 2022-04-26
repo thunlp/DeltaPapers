@@ -21,7 +21,7 @@ We follow the general idea of PromptPapers to label the papers.
 
 ### Overview
 
-- **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Model**, Preprint. ![](https://img.shields.io/badge/Empirical Study-green)![](https://img.shields.io/badge/Theoretical Study-green)
+- **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Model**, Preprint. ![](https://img.shields.io/badge/Empirical_Study-green)![](https://img.shields.io/badge/Theoretical_Study-green)
 
   *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun* [[pdf](https://arxiv.org/abs/2203.06904)], [[project](https://github.com/thunlp/OpenDelta)] 
 
