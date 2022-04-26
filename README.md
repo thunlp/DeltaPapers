@@ -63,11 +63,17 @@ We follow the general idea of PromptPapers to label the papers.
 
 - UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning
 
-- CONDITIONALLY ADAPTIVE MULTI-TASK LEARNING: IMPROVING TRANSFER LEARNING IN NLP USING FEWER PARAMETERS & LESS DATA
+- **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021.
 
-- BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models
+  *Jonathan Pilault, Amine Elhattami, Christopher Pal*. [[pdf](https://arxiv.org/abs/2009.09139)], [[Project](https://github.com/CAMTL/CA-MTL)]
 
-- gpt understands too.
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,** Preprint 2021. 
+
+  *Elad Ben Zaken, Shauli Ravfogel, Yoav Goldberg*. [[pdf](https://arxiv.org/abs/2106.10199)], [[Project](https://github.com/benzakenelad/BitFit)]
+
+- **GPT Understands, Too,** Preprint 2020.
+
+  *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang*. [[pdf](https://arxiv.org/abs/2103.10385)], [[Project](https://github.com/THUDM/P-tuning)]
 
 - **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021.
 
