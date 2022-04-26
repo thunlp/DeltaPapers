@@ -79,15 +79,25 @@ We follow the general idea of PromptPapers to label the papers.
 
 - Training Neural Networks with Fixed Sparse Masks
 
-- Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators
+- **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators,** ACL 2021.
 
-- Fast Model Editing at Scale
+  *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Z.Y. Xie, Zhong-Yi Lu, Ji-Rong Wen*. [[pdf](https://arxiv.org/abs/2106.02205)], [[Project](https://github.com/RUCAIBox/MPOP)]
 
-- Editing Factual Knowledge in Language Models
+- **Fast Model Editing at Scale,** ICLR 2022
 
-- LiST: Lite Self-training Makes Efficient Few-shot Learners
+  *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/abs/2110.11309)], [[Project](https://github.com/eric-mitchell/mend)]
 
-- Movement Pruning: Adaptive Sparsity by Fine-Tuning
+- **Editing Factual Knowledge in Language Models,** EMNLP 2021
+
+  *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]
+
+- **LiST: Lite Self-training Makes Efficient Few-shot Learners,** Preprint 2021.
+
+  *Yaqing Wang, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao*. [[pdf](https://arxiv.org/abs/2110.06274)], [[Project](https://github.com/microsoft/LiST)]
+
+- **Movement Pruning: Adaptive Sparsity by Fine-Tuning,** Neurips 2020.
+
+  *Victor Sanh, Thomas Wolf, Alexander M. Rush*. [[pdf](https://arxiv.org/abs/2005.07683)], [[Project](https://github.com/huggingface/block_movement_pruning)]
 
 - **VL-ADAPTER: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks,** CVPR 2022.
 
