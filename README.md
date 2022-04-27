@@ -40,7 +40,7 @@ We follow the general idea of PromptPapers to label the papers.
 
 - **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021.
 
-  *Brian Lester, Rami Al-Rfou, Noah Constant.* [[pdf](https://arxiv.org/abs/2104.08691)], [[OpenPrompt](https://github.com/thunlp/OpenPrompt/blob/main/tutorial/1.4_soft_template.py)]
+  *Brian Lester, Rami Al-Rfou, Noah Constant.* [[pdf](https://arxiv.org/abs/2104.08691)], [[OpenPrompt Implementation](https://github.com/thunlp/OpenPrompt/blob/main/tutorial/1.4_soft_template.py)]
 
 - **COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers,** Neurips 2021.
 
