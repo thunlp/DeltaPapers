@@ -3,6 +3,7 @@ A paper list of parameter-efficient methods (Delta Tuning) for pre-trained model
 
 ## Why Delta Tuning?
 
+Pre-trained models become increasingly larger because (1) better performance on existing NLP and CV tasks; (2) great potential on never-defined complex tasks. Delta tuning is a promising way to efficiently and effectively stimulate super-large models.
 
 ### Keywords Convention
 
