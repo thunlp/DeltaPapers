@@ -52,7 +52,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Demi Guo, Alexander M. Rush, Yoon Kim*. [[pdf](https://arxiv.org/abs/2012.07463)], [[Project](https://github.com/dguo98/DiffPruning)]
 
-- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt Tuning-blue)
+- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt_Tuning-blue)
 
   *Brian Lester, Rami Al-Rfou, Noah Constant.* [[pdf](https://arxiv.org/abs/2104.08691)], [[OpenPrompt Implementation](https://github.com/thunlp/OpenPrompt/blob/main/tutorial/1.4_soft_template.py)]
 
@@ -78,7 +78,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 - **Editing Factual Knowledge in Language Models,** EMNLP 2021
 
-  *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]-
+  *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]
 
 - **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021.
 
