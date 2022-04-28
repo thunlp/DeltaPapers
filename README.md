@@ -4,7 +4,7 @@ Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained m
 ## Content
 
 - [Why Delta Tuning?](#introduction)
-  - [Keywords Convention](#keywords-convention)
+- [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
   - [Overview](#overview)
   - [Methodology](#methodology)
@@ -20,7 +20,7 @@ Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained m
 
 Pre-trained models become increasingly larger because of (1) better performance on existing NLP and CV tasks; (2) great potential on never-defined complex tasks.  And delta tuning (parameter-efficient methods) is a promising way to effectively and efficiently stimulate large-scale pre-trained models while dramatically reducing the computational and storage costs.
 
-### Keywords Convention
+## Keywords Convention
 
 We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPapers) to label the papers. 
 
