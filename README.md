@@ -103,7 +103,7 @@ We follow the general idea of PromptPapers to label the papers.
 
 - **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning,** Preprint 2021.
 
-  *Yujia Qin, Xiaozhi Wang, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*. [[pdf](https://arxiv.org/abs/2110.07867)]
+  *Yujia Qin, Xiaozhi Wang, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*. [[pdf](https://arxiv.org/abs/2110.07867)], [[Project](https://github.com/thunlp/Intrinsic-Prompt-Tuning)]
 
 - **Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning,** ACL 2021.
 
