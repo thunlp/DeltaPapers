@@ -1,5 +1,5 @@
 # DeltaPapers
-A paper list of parameter-efficient methods (Delta Tuning) for pre-trained models.
+Must-read papers of parameter-efficient methods (Delta Tuning) for pre-trained models.
 
 ## Why Delta Tuning?
 
