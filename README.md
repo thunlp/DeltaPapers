@@ -1,18 +1,18 @@
 # DeltaPapers
 Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained models.
 
-- [DeltaPapers](#deltapapers)
-  - [Why Delta Tuning?](#introduction)
-    - [Keywords Convention](#keywords-convention)
-  - [Papers](#papers)
-    - [Overview](#overview)
-    - [Methodology](#methodology)
-    - [Analysis](#analysis)
-    - [Applications & Tools](#applications-&-tools)
-  - [Contribution](#contribution)
-    - [Contributors](#contributors)
-    - [Contributing to this paper list](#contributing-to-this-paper-list)
+## Content
 
+- [Why Delta Tuning?](#introduction)
+  - [Keywords Convention](#keywords-convention)
+- [Papers](#papers)
+  - [Overview](#overview)
+  - [Methodology](#methodology)
+  - [Analysis](#analysis)
+  - [Applications & Tools](#applications-&-tools)
+- [Contribution](#contribution)
+  - [Contributors](#contributors)
+  - [Contributing to this paper list](#contributing-to-this-paper-list)
 
 
 
