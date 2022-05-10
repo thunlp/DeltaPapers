@@ -165,6 +165,8 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ### Applications & Tools
 
+- **OpenDelta: A Flexible Plug-in Tool for Delta Tuning**. [[Project](https://github.com/thunlp/opendelta)] 
+
 - **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021. ![](https://img.shields.io/badge/Speech-orange)
 
   *Hang Le, Juan Pino, Changhan Wang, Jiatao Gu, Didier Schwab, Laurent Besacier*. [[pdf](https://arxiv.org/abs/2106.01463)], [[Project](https://github.com/formiel/fairseq/blob/master/examples/speech_to_text/docs/adapters.md)]
