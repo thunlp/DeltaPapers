@@ -31,6 +31,8 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ![](https://img.shields.io/badge/MultiTask-green) The main explored property of delta tuning methods in the work.
 
+
+
 ## Papers
 
 ### Overview
@@ -41,65 +43,65 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ### Methodology
 
-- **Parameter-Efficient Transfer Learning for NLP,** ICML 2019.  ![](https://img.shields.io/badge/Adapter-blue)
+- **Parameter-Efficient Transfer Learning for NLP,** ICML 2019.  ![](https://img.shields.io/badge/Adapter-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Neil Houlsby, Andrei Giurgiu, Stanislaw Jastrzebski, Bruna Morrone, Quentin de Laroussilhe, Andrea Gesmundo, Mona Attariyan, Sylvain Gelly.* [[pdf](https://arxiv.org/abs/1902.00751)], [[Project](https://github.com/google-research/adapter-bert)]
+
+- **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task,** ICML 2019.![](https://img.shields.io/badge/PALs-blue) ![](https://img.shields.io/badge/NLU-orange)
+
+  *Asa Cooper Stickland, Iain Murray*. [[pdf](https://arxiv.org/abs/1902.02671)], [[Project](https://github.com/AsaCooperStickland/Bert-n-Pals)]
+
+- **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,** EMNLP 2020. ![](https://img.shields.io/badge/Masking-blue) ![](https://img.shields.io/badge/NLU-orange)
+
+  *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. [[pdf](https://arxiv.org/abs/2004.12406)], [[Project](https://github.com/ptlmasking/maskbert)] 
 
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021. ![](https://img.shields.io/badge/Prefix_Tuning-blue) ![](https://img.shields.io/badge/Generation-orange)
 
   *Xiang Lisa Li, Percy Liang.* [[pdf](https://arxiv.org/abs/2101.00190)], [[Project]()]
 
-- **Parameter-Efficient Transfer Learning with Diff Pruning,** ACL 2021. ![](https://img.shields.io/badge/Diff_pruning-blue)
+- **Parameter-Efficient Transfer Learning with Diff Pruning,** ACL 2021. ![](https://img.shields.io/badge/Diff_pruning-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Demi Guo, Alexander M. Rush, Yoon Kim*. [[pdf](https://arxiv.org/abs/2012.07463)], [[Project](https://github.com/dguo98/DiffPruning)]
 
-- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt_Tuning-blue)
+- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt_Tuning-blue) ![](https://img.shields.io/badge/NLU-orange) 
 
   *Brian Lester, Rami Al-Rfou, Noah Constant.* [[pdf](https://arxiv.org/abs/2104.08691)], [[OpenPrompt Implementation](https://github.com/thunlp/OpenPrompt/blob/main/tutorial/1.4_soft_template.py)]
 
-- **COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers,** Neurips 2021.![](https://img.shields.io/badge/Compacter-blue)
+- **COMPACTER: Efficient Low-Rank Hypercomplex Adapter Layers,** Neurips 2021.![](https://img.shields.io/badge/Compacter-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Rabeeh Karimi Mahabadi, James Henderson, Sebastian Ruder*. [[pdf](https://arxiv.org/abs/2106.04647)], [[Project](https://github.com/rabeehk/compacter)]
 
-- **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,** EMNLP 2020. ![](https://img.shields.io/badge/Masking-blue)
-
-  *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. [[pdf](https://arxiv.org/abs/2004.12406)], [[Project](https://github.com/ptlmasking/maskbert)] 
-
-- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,** Preprint 2021. ![](https://img.shields.io/badge/BitFit-blue)
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,** Preprint 2021. ![](https://img.shields.io/badge/BitFit-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Elad Ben Zaken, Shauli Ravfogel, Yoav Goldberg*. [[pdf](https://arxiv.org/abs/2106.10199)], [[Project](https://github.com/benzakenelad/BitFit)]
 
-- **LoRA: Low-Rank Adaptation of Large Language Models,** ICLR 2022. ![](https://img.shields.io/badge/LoRA-blue)
+- **LoRA: Low-Rank Adaptation of Large Language Models,** ICLR 2022. ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen.* [[pdf](https://arxiv.org/abs/2106.09685)], [[Project](https://github.com/microsoft/LoRA)]
 
-- **Fast Model Editing at Scale,** ICLR 2022. ![](https://img.shields.io/badge/MEND-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)
+- **Fast Model Editing at Scale,** ICLR 2022. ![](https://img.shields.io/badge/MEND-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)  ![](https://img.shields.io/badge/Fact_Checking & Fact_Generation-orange)
 
   *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/abs/2110.11309)], [[Project](https://github.com/eric-mitchell/mend)]
 
-- **Editing Factual Knowledge in Language Models,** EMNLP 2021. ![](https://img.shields.io/badge/KNOWLEDGEEDITOR-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)
+- **Editing Factual Knowledge in Language Models,** EMNLP 2021. ![](https://img.shields.io/badge/KNOWLEDGEEDITOR-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green) ![](https://img.shields.io/badge/Fact_Checking & QA-orange)
 
   *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]
 
-- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021. ![](https://img.shields.io/badge/FISH_Mask-blue)
+- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021. ![](https://img.shields.io/badge/FISH_Mask-blue) ![](https://img.shields.io/badge/NLU & Cifar-orange)
 
   *Yi-Lin Sung, Varun Nair, Colin Raffeln*. [[pdf](https://arxiv.org/abs/2111.09839)], [[Project](https://github.com/varunnair18/FISH)]
 
-- **GPT Understands, Too,** Preprint 2020. ![](https://img.shields.io/badge/P_Tuning-blue)
+- **GPT Understands, Too,** Preprint 2020. ![](https://img.shields.io/badge/P_Tuning-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang*. [[pdf](https://arxiv.org/abs/2103.10385)], [[Project](https://github.com/THUDM/P-tuning)]
 
-- **LiST: Lite Self-training Makes Efficient Few-shot Learners,** Preprint 2021. ![](https://img.shields.io/badge/LIST-blue)
+- **LiST: Lite Self-training Makes Efficient Few-shot Learners,** Preprint 2021. ![](https://img.shields.io/badge/LIST-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Yaqing Wang, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao*. [[pdf](https://arxiv.org/abs/2110.06274)], [[Project](https://github.com/microsoft/LiST)]
 
-- **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks,** ACL 2021. ![](https://img.shields.io/badge/HyperFormer-blue) ![](https://img.shields.io/badge/Multi_Task-green)
+- **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks,** ACL 2021. ![](https://img.shields.io/badge/HyperFormer-blue) ![](https://img.shields.io/badge/Multi_Task-green) ![](https://img.shields.io/badge/NLU-orange)
 
   *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
-
-- **BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task,** ICML 2019.
-
-  *Asa Cooper Stickland, Iain Murray*. [[pdf](https://arxiv.org/abs/1902.02671)], [[Project](https://github.com/AsaCooperStickland/Bert-n-Pals)]
 
 ### Analysis 
 
