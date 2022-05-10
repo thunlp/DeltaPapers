@@ -125,11 +125,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Yuning Mao, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han, Wen-tau Yih, Madian Khabsa*. [[pdf](https://arxiv.org/abs/2110.07577)], [[Project](https://github.com/morningmoni/UniPELT)]
 
-- **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021. ![](https://img.shields.io/badge/CA-MTL-blue) ![](https://img.shields.io/badge/MultiTask-green)
+- **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021. ![](https://img.shields.io/badge/CA_MTL-blue) ![](https://img.shields.io/badge/MultiTask-green)
 
   *Jonathan Pilault, Amine Elhattami, Christopher Pal*. [[pdf](https://arxiv.org/abs/2009.09139)], [[Project](https://github.com/CAMTL/CA-MTL)]
 
-- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Child-Tuning-blue)
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Child_Tuning-blue)
 
   *Runxin Xu, Fuli Luo, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang*. [[pdf](https://arxiv.org/abs/2109.05687)], [[Project](https://github.com/alibaba/AliceMind/tree/main/ChildTuning)]
 
@@ -141,11 +141,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Armen Aghajanyan, Luke Zettlemoyer, Sonal Gupta*. [[pdf](https://arxiv.org/abs/2012.13255)]
 
-- **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators,** ACL 2021.
+- **Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators,** ACL 2021. ![](https://img.shields.io/badge/Model_Compression-green)
 
   *Peiyu Liu, Ze-Feng Gao, Wayne Xin Zhao, Z.Y. Xie, Zhong-Yi Lu, Ji-Rong Wen*. [[pdf](https://arxiv.org/abs/2106.02205)], [[Project](https://github.com/RUCAIBox/MPOP)]
 
-- **Movement Pruning: Adaptive Sparsity by Fine-Tuning,** Neurips 2020.
+- **Movement Pruning: Adaptive Sparsity by Fine-Tuning,** Neurips 2020. ![](https://img.shields.io/badge/Model_Compression-green)
 
   *Victor Sanh, Thomas Wolf, Alexander M. Rush*. [[pdf](https://arxiv.org/abs/2005.07683)], [[Project](https://github.com/huggingface/block_movement_pruning)]
 
@@ -157,7 +157,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Aliakbar Panahi, Seyran Saeedi, Tom Arodz*. [[pdf](https://proceedings.neurips.cc/paper/2021/file/09def3ebbc44ff3426b28fcd88c83554-Paper.pdf)], [[Project](https://github.com/tarodz/shapeshifter)]
 
-- **Adapterdrop: On the efficiency of adapters in transformers,** EMNLP 2021.
+- **Adapterdrop: On the efficiency of adapters in transformers,** EMNLP 2021. ![](https://img.shields.io/badge/Adapterdrop-blue)
 
   *Andreas Rücklé, Gregor Geigle, Max Glockner, Tilman Beck, Jonas Pfeiffer, Nils Reimers, Iryna Gurevych*. [[pdf](https://arxiv.org/abs/2010.11918)]
 
