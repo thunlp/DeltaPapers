@@ -3,13 +3,13 @@ Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained m
 
 ## Content
 
-- [Why Parameter Efficient?](#Why-Parameter-Efficient?)
+- [Why Parameter Efficient?](#why-parameter-efficient)
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
   - [Overview](#overview)
   - [Methodology](#methodology)
   - [Analysis](#analysis)
-  - [Applications & Tools](#applications-&-tools)
+  - [Applications & Tools](#applications--tools)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
