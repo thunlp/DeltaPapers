@@ -77,11 +77,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/abs/2110.11309)], [[Project](https://github.com/eric-mitchell/mend)]
 
-- **Editing Factual Knowledge in Language Models,** EMNLP 2021
+- **Editing Factual Knowledge in Language Models,** EMNLP 2021. ![](https://img.shields.io/badge/KNOWLEDGEEDITOR-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)
 
   *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]
 
-- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021.
+- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021. ![](https://img.shields.io/badge/FISH_Mask-blue)
 
   *Yi-Lin Sung, Varun Nair, Colin Raffeln*. [[pdf](https://arxiv.org/abs/2111.09839)], [[Project](https://github.com/varunnair18/FISH)]
 
@@ -89,11 +89,11 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, Jie Tang*. [[pdf](https://arxiv.org/abs/2103.10385)], [[Project](https://github.com/THUDM/P-tuning)]
 
-- **LiST: Lite Self-training Makes Efficient Few-shot Learners,** Preprint 2021.
+- **LiST: Lite Self-training Makes Efficient Few-shot Learners,** Preprint 2021. ![](https://img.shields.io/badge/LIST-blue)
 
   *Yaqing Wang, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao*. [[pdf](https://arxiv.org/abs/2110.06274)], [[Project](https://github.com/microsoft/LiST)]
 
-- **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks,** ACL 2021.
+- **Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks,** ACL 2021. ![](https://img.shields.io/badge/HyperFormer-blue) ![](https://img.shields.io/badge/Multi_Task-green)
 
   *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
 
