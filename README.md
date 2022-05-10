@@ -31,7 +31,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ![](https://img.shields.io/badge/MultiTask-green) The main explored property of delta tuning methods in the work.
 
-
+![](https://img.shields.io/badge/Other-purple) Other important information of the work.
 
 ## Papers
 
@@ -71,7 +71,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Rabeeh Karimi Mahabadi, James Henderson, Sebastian Ruder*. [[pdf](https://arxiv.org/abs/2106.04647)], [[Project](https://github.com/rabeehk/compacter)]
 
-- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,** Preprint 2021. ![](https://img.shields.io/badge/BitFit-blue) ![](https://img.shields.io/badge/NLU-orange)
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models,** ACL 2022. ![](https://img.shields.io/badge/BitFit-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Elad Ben Zaken, Shauli Ravfogel, Yoav Goldberg*. [[pdf](https://arxiv.org/abs/2106.10199)], [[Project](https://github.com/benzakenelad/BitFit)]
 
@@ -198,4 +198,4 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 -  First, think about which category the work should belong to. 
 -  Second, use the same format as the others to describe the work. Note that there should be an empty line between the title and the author's list, and take care of the indentation.
 -  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
- 
+
