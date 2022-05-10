@@ -109,31 +109,31 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.* [[pdf](https://arxiv.org/abs/2110.04366)], [[Project](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
-- **AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks,** Preprint 2021.
+- **AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks,** Preprint 2021. ![](https://img.shields.io/badge/AdapterBias-blue)
 
   *Anonymous*. [[pdf](https://openreview.net/forum?id=VZ2oO6KYbBB)]
 
-- **AdapterFusion: Non-Destructive Task Composition for Transfer Learning,** Preprint 2020. ![](https://img.shields.io/badge/MultiTask-green)
+- **AdapterFusion: Non-Destructive Task Composition for Transfer Learning,** Preprint 2020. ![](https://img.shields.io/badge/AdapterFusion-blue) ![](https://img.shields.io/badge/MultiTask-green)
 
   *Jonas Pfeiffer, Aishwarya Kamath, Andreas Rücklé, Kyunghyun Cho, Iryna Gurevych*. [[pdf](https://arxiv.org/abs/2005.00247)], [[Project](https://adapterhub.ml/)]
 
-- **On the Effectiveness Adapter-based Tuning for Pretrained Language Model Adaptation,** ACL 2021.
+- **On the Effectiveness Adapter-based Tuning for Pretrained Language Model Adaptation,** ACL 2021. ![](https://img.shields.io/badge/Catastrophic_Forgetting-green)
 
   *Ruidan He, Linlin Liu, Hai Ye, Qingyu Tan, Bosheng Ding, Liying Cheng, Jia-Wei Low, Lidong Bing, Luo Si*. [[pdf](https://arxiv.org/abs/2106.03164)]
 
-- **UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning,** Preprint 2021. ![](https://img.shields.io/badge/Unified_View-green)
+- **UNIPELT: A Unified Framework for Parameter-Efficient Language Model Tuning,** Preprint 2021. ![](https://img.shields.io/badge/UNIPELT-blue) ![](https://img.shields.io/badge/Unified_View-green)
 
   *Yuning Mao, Lambert Mathias, Rui Hou, Amjad Almahairi, Hao Ma, Jiawei Han, Wen-tau Yih, Madian Khabsa*. [[pdf](https://arxiv.org/abs/2110.07577)], [[Project](https://github.com/morningmoni/UniPELT)]
 
-- **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021.
+- **Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data,** ICLR 2021. ![](https://img.shields.io/badge/CA-MTL-blue) ![](https://img.shields.io/badge/MultiTask-green)
 
   *Jonathan Pilault, Amine Elhattami, Christopher Pal*. [[pdf](https://arxiv.org/abs/2009.09139)], [[Project](https://github.com/CAMTL/CA-MTL)]
 
-- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021.
+- **Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Child-Tuning-blue)
 
   *Runxin Xu, Fuli Luo, Zhiyuan Zhang, Chuanqi Tan, Baobao Chang, Songfang Huang, Fei Huang*. [[pdf](https://arxiv.org/abs/2109.05687)], [[Project](https://github.com/alibaba/AliceMind/tree/main/ChildTuning)]
 
-- **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning,** Preprint 2021. ![](https://img.shields.io/badge/Intrinsic_Space-green)
+- **Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning,** Preprint 2021. ![](https://img.shields.io/badge/Intrinsic_Space-green) ![](https://img.shields.io/badge/MultiTask-green)
 
   *Yujia Qin, Xiaozhi Wang, Yusheng Su, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*. [[pdf](https://arxiv.org/abs/2110.07867)], [[Project](https://github.com/thunlp/Intrinsic-Prompt-Tuning)]
 
