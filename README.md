@@ -198,4 +198,3 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 -  First, think about which category the work should belong to. 
 -  Second, use the same format as the others to describe the work. Note that there should be an empty line between the title and the author's list, and take care of the indentation.
 -  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
- 
