@@ -79,15 +79,15 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Edward J. Hu, Yelong Shen, Phillip Wallis, Zeyuan Allen-Zhu, Yuanzhi Li, Shean Wang, Lu Wang, Weizhu Chen.* [[pdf](https://arxiv.org/abs/2106.09685)], [[Project](https://github.com/microsoft/LoRA)]
 
-- **Fast Model Editing at Scale,** ICLR 2022. ![](https://img.shields.io/badge/MEND-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)  ![](https://img.shields.io/badge/Fact_Checking & Fact_Generation-orange)
+- **Fast Model Editing at Scale,** ICLR 2022. ![](https://img.shields.io/badge/MEND-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green)  ![](https://img.shields.io/badge/Fact_Checking&Fact_Generation-orange)
 
   *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn, Christopher D. Manning*. [[pdf](https://arxiv.org/abs/2110.11309)], [[Project](https://github.com/eric-mitchell/mend)]
 
-- **Editing Factual Knowledge in Language Models,** EMNLP 2021. ![](https://img.shields.io/badge/KNOWLEDGEEDITOR-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green) ![](https://img.shields.io/badge/Fact_Checking & QA-orange)
+- **Editing Factual Knowledge in Language Models,** EMNLP 2021. ![](https://img.shields.io/badge/KNOWLEDGEEDITOR-blue) ![](https://img.shields.io/badge/Knowledge_Editing-green) ![](https://img.shields.io/badge/Fact_Checking&QA-orange)
 
   *Nicola De Cao, Wilker Aziz, Ivan Titov*. [[pdf](https://arxiv.org/abs/2104.08164)], [[Project](https://github.com/nicola-decao/KnowledgeEditor)]
 
-- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021. ![](https://img.shields.io/badge/FISH_Mask-blue) ![](https://img.shields.io/badge/NLU & Cifar-orange)
+- **Training Neural Networks with Fixed Sparse Masks,** Neurips 2021. ![](https://img.shields.io/badge/FISH_Mask-blue) ![](https://img.shields.io/badge/NLU&Cifar-orange)
 
   *Yi-Lin Sung, Varun Nair, Colin Raffeln*. [[pdf](https://arxiv.org/abs/2111.09839)], [[Project](https://github.com/varunnair18/FISH)]
 
