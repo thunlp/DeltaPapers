@@ -189,7 +189,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://github.com/thunlp/OpenPrompt/graphs/contributors">
+<a href="https://github.com/thunlp/DeltaPapers/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=thunlp/DeltaPapers" />
 </a>
 
