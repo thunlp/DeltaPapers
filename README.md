@@ -10,17 +10,21 @@ Must-read papers on parameter-efficient tuning methods (Delta Tuning) for pre-tr
   - [Methodology](#methodology)
   - [Analysis](#analysis)
   - [Applications & Tools](#applications--tools)
+  - [Blogs](#blogs)
 - [Contribution](#contribution)
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
 
 ## Why Parameter Efficient?
 
+
+
 Increasingly larger pre-trained models bring both the blessing of effectiveness on existing and unknown tasks, and the curse of prohibitive adaptation cost. In this context, parameter-efficient tuning methods (delta tuning) are developed and demonstrate a promising way to stimulate colossal models with only a small portion of tunable parameters, thereby dramatically reducing the computational and storage costs of model adaptation. In addition to the obvious practical value, delta tuning seems to imply that the particular adaptation of pre-trained models may be a very simple process, which may usher in intriguing theoretical issues that are worth exploring. 
+
 
 ## Keywords Convention
 
-We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPapers) to label the papers. 
+We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPapers) to label the papers.
 
 ![](https://img.shields.io/badge/T5-blue) The abbreviation of the work.
 
@@ -36,7 +40,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 - **Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Model**, Preprint 2022. ![](https://img.shields.io/badge/Theoretical_Study-green) ![](https://img.shields.io/badge/Empirical_Study-green)
 
-  *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun*. [[pdf](https://arxiv.org/abs/2203.06904)], [[OpenDelta](https://github.com/thunlp/OpenDelta)] 
+  *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, Yusheng Su, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun*. [[pdf](https://arxiv.org/abs/2203.06904)], [[OpenDelta](https://github.com/thunlp/OpenDelta)]
 
 ### Methodology
 
@@ -50,7 +54,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 - **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models,** EMNLP 2020. ![](https://img.shields.io/badge/Masking-blue) ![](https://img.shields.io/badge/NLU-orange)
 
-  *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. [[pdf](https://arxiv.org/abs/2004.12406)], [[Project](https://github.com/ptlmasking/maskbert)] 
+  *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. [[pdf](https://arxiv.org/abs/2004.12406)], [[Project](https://github.com/ptlmasking/maskbert)]
 
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021. ![](https://img.shields.io/badge/Prefix_Tuning-blue) ![](https://img.shields.io/badge/Generation-orange)
 
@@ -60,7 +64,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Demi Guo, Alexander M. Rush, Yoon Kim*. [[pdf](https://arxiv.org/abs/2012.07463)], [[Project](https://github.com/dguo98/DiffPruning)]
 
-- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt_Tuning-blue) ![](https://img.shields.io/badge/NLU-orange) 
+- **The Power of Scale for Parameter-Efficient Prompt Tuning,** EMNLP 2021. ![](https://img.shields.io/badge/Prompt_Tuning-blue) ![](https://img.shields.io/badge/NLU-orange)
 
   *Brian Lester, Rami Al-Rfou, Noah Constant.* [[pdf](https://arxiv.org/abs/2104.08691)], [[OpenPrompt Implementation](https://github.com/thunlp/OpenPrompt/blob/main/tutorial/1.4_soft_template.py)]
 
@@ -100,7 +104,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
 
-### Analysis 
+### Analysis
 
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022. ![](https://img.shields.io/badge/Unified_View-green)
 
@@ -164,7 +168,7 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ### Applications & Tools
 
-- **OpenDelta: A Flexible Plug-in Tool for Delta Tuning**. [[Project](https://github.com/thunlp/opendelta)] 
+- **OpenDelta: A Flexible Plug-in Tool for Delta Tuning**. [[Project](https://github.com/thunlp/opendelta)]
 
 - **Lightweight Adapter Tuning for Multilingual Speech Translation,** ACL 2021. ![](https://img.shields.io/badge/Speech-orange)
 
@@ -178,7 +182,9 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych.* [[pdf](https://arxiv.org/abs/2007.07779)], [[Project](https://adapterhub.ml/)]
 
+### Blogs
 
+- **Parameter-efficient transfer learning for NLP,** Overview Blog Post 2022, [[Blog](https://languagetech.substack.com/p/parameter-efficient-transfer-learning)] ![](https://img.shields.io/badge/Adapter-blue) ![](https://img.shields.io/badge/AdapterFusion-blue) ![](https://img.shields.io/badge/MultiTask-green) ![](https://img.shields.io/badge/BitFit-blue) ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/NLU-orange)
 
 ## Contribution
 
@@ -192,7 +198,6 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
 ### Contributing to this paper list
 
--  First, think about which category the work should belong to. 
+-  First, think about which category the work should belong to.
 -  Second, use the same format as the others to describe the work. Note that there should be an empty line between the title and the author's list, and take care of the indentation.
 -  Then, add [keywords tags](#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
-
