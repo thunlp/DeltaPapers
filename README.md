@@ -1,5 +1,5 @@
 # DeltaPapers
-Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained models.
+Must-read papers on parameter-efficient tuning methods (Delta Tuning) for pre-trained models.
 
 ## Content
 
@@ -15,11 +15,11 @@ Must-read papers on parameter-efficient methods (Delta Tuning) for pre-trained m
   - [Contributors](#contributors)
   - [Contributing to this paper list](#contributing-to-this-paper-list)
 
-
-
 ## Why Parameter Efficient?
 
-Increasingly larger pre-trained models bring both the blessing of effectiveness on existing and unknown tasks, and the curse of prohibitive adaptation cost. In this context, parameter-efficient methods (delta tuning) are developed and demonstrate a promising way to stimulate colossal models with only a small portion of tunable parameters, thereby dramatically reducing the computational and storage costs of model adaptation. In addition to the obvious practical value, delta tuning seems to imply that the particular adaptation of pre-trained models may be a very simple process, which may usher in intriguing theoretical issues that are worth exploring.
+
+
+Increasingly larger pre-trained models bring both the blessing of effectiveness on existing and unknown tasks, and the curse of prohibitive adaptation cost. In this context, parameter-efficient tuning methods (delta tuning) are developed and demonstrate a promising way to stimulate colossal models with only a small portion of tunable parameters, thereby dramatically reducing the computational and storage costs of model adaptation. In addition to the obvious practical value, delta tuning seems to imply that the particular adaptation of pre-trained models may be a very simple process, which may usher in intriguing theoretical issues that are worth exploring. 
 
 
 ## Keywords Convention
