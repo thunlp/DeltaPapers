@@ -104,6 +104,18 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
 
+- **P-Tuning: Prompt Tuning Can Be Comparable to Fine-tuning Across Scales and Tasks,** ACL 2022. ![](https://img.shields.io/badge/P_tuning_v2-blue) ![](https://img.shields.io/badge/NLU-orange)
+
+  *Xiao Liu, Kaixuan Ji, Yicheng Fu, Weng Tam, Zhengxiao Du, Zhilin Yang, Jie Tang*. [[pdf](https://aclanthology.org/2022.acl-short.8/)], [[project](https://github.com/THUDM/P-tuning-v2)]
+
+- **Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization,** ACL 2023. ![](https://img.shields.io/badge/ResPT-blue) ![](https://img.shields.io/badge/NLU-orange)
+
+  *Anastasia Razdaibiedina, Yuning Mao, Madian Khabsa, Mike Lewis, Rui Hou, Jimmy Ba, Amjad Almahairi*. [[pdf](https://arxiv.org/pdf/2305.03937.pdf)], [[project](https://github.com/arazd/ResidualPrompts)]
+
+- **Towards Adaptive Prefix Tuning for Parameter-Efficient Language Model Fine-tuning,** ACL 2023. ![](https://img.shields.io/badge/APT-blue) ![](https://img.shields.io/badge/NLU-orange)
+
+  *Zhen-Ru Zhang, Chuanqi Tan, Haiyang Xu, Chengyu Wang, Jun Huang, Songfang Huang*. [[pdf](https://arxiv.org/pdf/2305.15212v1.pdf)]
+
 ### Analysis
 
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022. ![](https://img.shields.io/badge/Unified_View-green)
