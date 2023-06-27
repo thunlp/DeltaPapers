@@ -110,6 +110,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.* [[pdf](https://arxiv.org/abs/2110.04366)], [[Project](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
+- **Revisiting Parameter-Efficient Tuning: Are We Really There Yet?,** EMNLP 2022. ![](https://img.shields.io/badge/Empirical_Study-green)
+
+  *Guanzheng Chen, Fangyu Liu, Zaiqiao Meng, and Shangsong Liang.* [[pdf](https://aclanthology.org/2022.emnlp-main.168.pdf)], [[Project](https://github.com/guanzhchen/PETuning)]
+
 - **AdapterBias: Parameter-efficient Token-dependent Embedding Shift for Adapters in NLP Tasks,** Preprint 2021. ![](https://img.shields.io/badge/AdapterBias-blue)
 
   *Anonymous*. [[pdf](https://openreview.net/forum?id=VZ2oO6KYbBB)]
