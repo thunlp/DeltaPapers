@@ -104,6 +104,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 
   *Rabeeh Karimi Mahabadi, Sebastian Ruder, Mostafa Dehghani, James Henderson*. [[pdf](https://arxiv.org/abs/2106.04489)], [[Project](https://github.com/rabeehk/hyperformer)]
 
+- **Efficient Test-Time Prompt Tuning for Vision-Language Models,** IJCV 2026. ![](https://img.shields.io/badge/Self--TPT-blue) ![](https://img.shields.io/badge/Image_Classification-orange) ![](https://img.shields.io/badge/Self_Supervision-green)
+
+  *Yuhan Zhu, Guozhen Zhang, Chen Xu, Haocheng Shen, Xiaoxin Chen, Gangshan Wu, Limin Wang.* [[pdf](https://arxiv.org/abs/2408.05775)], [[Publication](https://link.springer.com/article/10.1007/s11263-026-03019-3)]
+
 ### Analysis
 
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022. ![](https://img.shields.io/badge/Unified_View-green)
@@ -181,6 +185,10 @@ We follow the general idea of [PromptPapers](https://github.com/thunlp/PromptPap
 - **AdapterHub: A Framework for Adapting Transformers,** EMNLP demo 2020. ![](https://img.shields.io/badge/Adapter_Tool-green)
 
   *Jonas Pfeiffer, Andreas Rücklé, Clifton Poth, Aishwarya Kamath, Ivan Vulić, Sebastian Ruder, Kyunghyun Cho, Iryna Gurevych.* [[pdf](https://arxiv.org/abs/2007.07779)], [[Project](https://adapterhub.ml/)]
+
+- **AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation,** NeurIPS 2024. ![](https://img.shields.io/badge/AWT-blue) ![](https://img.shields.io/badge/Image_Classification-orange) ![](https://img.shields.io/badge/Multimodal_Adapter-green)
+
+  *Yuhan Zhu, Yuyang Ji, Zhiyu Zhao, Gangshan Wu, Limin Wang.* [[pdf](https://arxiv.org/abs/2407.04603)], [[Publication](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)], [[Project](https://github.com/MCG-NJU/AWT)]
 
 ### Blogs
 
